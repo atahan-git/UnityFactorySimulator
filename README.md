@@ -9,6 +9,6 @@ The belt system in this factory works as follows:
 * Belts moves items forward. They can only be linear.
 * Buildings check for their input slots each tick, and craft the item and put it to the output slot if they can.
 
-![Example](ASCII Factory.gif)
+![Example](/ASCII Factory.gif)
 
 Hope this is useful! You can use this as a starting point in any game you want, as long as you list me somewhere! Check the license for more details.
