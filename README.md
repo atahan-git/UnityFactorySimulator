@@ -12,3 +12,6 @@ The belt system in this factory works as follows:
 ![Example](/ASCIIFactory.gif)
 
 Hope this is useful! You can use this as a starting point in any game you want, as long as you list me somewhere! Check the license for more details.
+
+You can also check the full game's source code here: [Made in Mars git repo](https://github.com/atahan-git/MadeinMars)
+However beware, the same factory sim is much more extended there, and is over twice as long as the version here.
